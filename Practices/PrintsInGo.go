@@ -19,6 +19,11 @@ func main() {
 
 	
 	// printf(formatted string)
-	fmt.Printf("my age is %v and my name is %v", age, name)
+	fmt.Printf("my age is %v and my name is %v \n", age, name)
+	fmt.Printf("my age is %q and my name is %q \n", age, name)
+	fmt.Printf("age is of type %!" \n, age)
+	fmt.Printf("you scored %f points \n", 225.55)
+	fmt.Printf("you scored %nf points \n", 225.55)
+
 
 }
