@@ -1,6 +1,6 @@
 package main
 
-func RectPerimeter(RectPerimeterw, h int) int {
+func RectPerimeter(RectPerimeter w, h int) int {
 	if w < 0 || h < 0 {
 		return -1
 
