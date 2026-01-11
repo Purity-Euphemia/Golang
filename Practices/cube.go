@@ -1,0 +1,3 @@
+func cube(n int) int {
+    return n * n * n
+}
